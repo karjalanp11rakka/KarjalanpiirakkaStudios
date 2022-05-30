@@ -1,4 +1,4 @@
-#Karjalanpiirakka games
+# Karjalanpiirakka games
 
 Itch.io games: https://karjalanpiirakka-studios.itch.io/
 
